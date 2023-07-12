@@ -1,1 +1,1 @@
-# Trilha JS Developer - Pokedex
+# Projeto desenvolvido durante o curso de JavaScript Developer da Dio
